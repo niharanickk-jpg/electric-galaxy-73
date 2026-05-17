@@ -10,5 +10,5 @@ services:
         value: ""
       - key: DATABASE_URL
         fromDatabase:
-          name: Եѵą.ҽ×ҽ 🌸
+          name: ammu
           property: connectionString
